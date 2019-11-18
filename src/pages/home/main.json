@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "仿美团外卖",
+  "usingComponents": {
+    "van-button": "/vant-weapp/button/index",
+    "van-search": "/vant-weapp/search/index"
+  }
+}

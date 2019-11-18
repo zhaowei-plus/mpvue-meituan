@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "表单操作",
+  "usingComponents": {
+    "van-tab": "/vant-weapp/tab/index"
+  }
+}
